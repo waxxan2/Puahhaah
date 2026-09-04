@@ -6,7 +6,7 @@ local LocalPlayer = Players.LocalPlayer
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/IJNTJNNPTJ/farm/refs/heads/main/.PH", true))()
 
 -- VENTANA PRINCIPAL
-local window = library:AddWindow("⚠️ Toxic PAID V2 Deobfuscated By 228 ⚠️", {
+local window = library:AddWindow("GRAVE GAMİNG PAİD", {
     main_color = Color3.fromRGB(34, 56, 34), 
     min_size = Vector2.new(600, 820),
     can_resize = false,
@@ -4630,4 +4630,4 @@ Gift:AddButton(
 
 local Credits = window:AddTab("Credits")
 
-Credits:AddLabel("Toxic Paid V2 Deobfuscated By 228")
+Credits:AddLabel("WOZZY BABA")
